@@ -25,7 +25,7 @@ GitHub's automatically generated **Source code (zip)** and **Source code (tar.gz
 
 | Product | Category | Platform | Current preview |
 | --- | --- | --- | --- |
-| **Tritanomaly Assist** | Accessibility · Color filter | Windows 10/11 x64 | [0.5.0 — portable EXE](https://github.com/FrostLagoa/kallidos_hub/releases/tag/tritanomaly-assist/v0.5.0) |
+| **Tritanomaly Assist** | Accessibility · Color filter | Windows 10/11 x64 | [0.5.1 — portable EXE](https://github.com/FrostLagoa/kallidos_hub/releases/tag/tritanomaly-assist/v0.5.1) |
 
 Tritanomaly Assist provides adjustable desktop colors, local profiles, a system tray icon, global shortcuts, and light/dark/system interface themes. Version 0.5.0 supports Portuguese, English, and Spanish. It is an experimental preview; see its release notes for requirements and limitations.
 

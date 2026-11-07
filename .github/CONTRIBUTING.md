@@ -1,6 +1,6 @@
 # Contributions
 
-Kallidos Hub is a distribution repository maintained by Frost Lagoa.
+Kallidos Hub is a distribution repository maintained by Pedro "Frost" Lagoa.
 
 It does not accept source-code contributions, pull requests, issues, or discussion threads. Product source code is maintained separately.
 

@@ -49,7 +49,7 @@ When provided, compare the download's SHA-256 hash with SHA256SUMS.txt.
 
 ## License and credits
 
-Copyright (c) 2026 Frost Lagoa (FrostLagoa).
+Copyright (c) 2026 Pedro "Frost" Lagoa (FrostLagoa).
 
 Licensed under the FrostLagoa Public Release License 1.0 included with this download, unless different product-specific terms are explicitly stated here and included with the package. Non-commercial redistribution requires unchanged packages, preserved notices, and attribution linking to the hub and this release. Third-party components retain their own licenses.
 

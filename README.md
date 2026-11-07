@@ -1,6 +1,6 @@
 # Kallidos Hub
 
-**Apps, tools, plugins, and utilities by Frost Lagoa — available as ready-to-use downloads.**
+**Apps, tools, plugins, and utilities by Pedro "Frost" Lagoa — available as ready-to-use downloads.**
 
 [Browse downloads](https://github.com/FrostLagoa/kallidos_hub/releases) · [License](LICENSE) · [GitHub profile](https://github.com/FrostLagoa)
 
@@ -36,23 +36,23 @@ You may share an official release link or redistribute an original download **fr
 When redistributing a download:
 
 - Keep the complete original package intact, including copyright notices, bundled licenses, and third-party notices.
-- Credit **Frost Lagoa (FrostLagoa)** and link to this hub and the original release.
+- Credit **Pedro "Frost" Lagoa (FrostLagoa)** and link to this hub and the original release.
 - Supply a copy of the applicable license alongside the download when it is not already included.
 - Do not sell it, charge for access, use paid or monetized download gates, or include it in a commercial bundle.
 - Do not modify, repackage, rebrand, or present it as your own work or an official partnership.
 
 Example credit:
 
-> Created by Frost Lagoa (FrostLagoa). Official hub: https://github.com/FrostLagoa/kallidos_hub. Original release: [insert the original release URL]. Distributed unchanged under the FrostLagoa Public Release License 1.0; see the accompanying LICENSE file.
+> Created by Pedro "Frost" Lagoa (FrostLagoa). Official hub: https://github.com/FrostLagoa/kallidos_hub. Original release: [insert the original release URL]. Distributed unchanged under the FrostLagoa Public Release License 1.0; see the accompanying LICENSE file.
 
 The [full license](LICENSE) governs these permissions. Product-specific terms and third-party licenses apply where expressly identified. A download does not grant paid features, subscriptions, activation keys, or commercial redistribution rights.
 
 ## Support and contributions
 
-This hub is maintained by Frost Lagoa. Issues, pull requests, and discussions are disabled; code contributions are not accepted here.
+This hub is maintained by Pedro "Frost" Lagoa. Issues, pull requests, and discussions are disabled; code contributions are not accepted here.
 
 If a product offers a support channel, its release notes or included documentation will identify it. Check those materials before requesting assistance. No support or update schedule is guaranteed.
 
 ## Copyright
 
-Copyright © 2026 Frost Lagoa (FrostLagoa). All rights reserved except for the permissions expressly granted in the applicable license. Third-party materials remain the property of their respective owners.
+Copyright © 2026 Pedro "Frost" Lagoa (FrostLagoa). All rights reserved except for the permissions expressly granted in the applicable license. Third-party materials remain the property of their respective owners.

@@ -10,7 +10,7 @@ This is the public distribution hub for my software. It brings installers, porta
 
 Downloads are published through **GitHub Releases**. This repository contains the hub's documentation and distribution terms. The source code for my products is not published here.
 
-**A public download does not make a product open source.** The software remains proprietary and is provided under the [FrostLagoa Public Release License](LICENSE), unless a release explicitly identifies different terms for a particular product or component.
+**A public download does not make a product open source.** The software remains proprietary and is provided under the [Kallidos Public Release License](LICENSE), unless a release explicitly identifies different terms for a particular product or component.
 
 ## Download a tool
 
@@ -43,7 +43,7 @@ When redistributing a download:
 
 Example credit:
 
-> Created by Pedro "Frost" Lagoa (FrostLagoa). Official hub: https://github.com/FrostLagoa/kallidos_hub. Original release: [insert the original release URL]. Distributed unchanged under the FrostLagoa Public Release License 1.0; see the accompanying LICENSE file.
+> Created by Pedro "Frost" Lagoa (FrostLagoa). Official hub: https://github.com/FrostLagoa/kallidos_hub. Original release: [insert the original release URL]. Distributed unchanged under the Kallidos Public Release License 1.0; see the accompanying LICENSE file.
 
 The [full license](LICENSE) governs these permissions. Product-specific terms and third-party licenses apply where expressly identified. A download does not grant paid features, subscriptions, activation keys, or commercial redistribution rights.
 

@@ -1,0 +1,114 @@
+FrostLagoa Public Release License 1.0
+
+Copyright (c) 2026 Frost Lagoa (FrostLagoa).
+All rights reserved except as expressly granted below.
+
+1. Scope and ownership
+
+This license applies to the copyright holder's documentation in this repository
+and to software installers, binaries, plugins, archives, assets, and accompanying
+materials intentionally made available as public release downloads through
+https://github.com/FrostLagoa/hub (the "Materials"), unless the copyright holder
+expressly identifies different license terms for particular Materials.
+
+The Materials are licensed, not sold. Ownership remains with the copyright
+holder and any applicable third-party owners. Public availability does not
+make the Materials open source or public domain. No source-code delivery,
+modification, or derivative-work rights are granted by this license.
+
+2. Permission to use
+
+Subject to this license and applicable product-specific terms, you may download,
+install, run, and make reasonable backup copies of an unmodified public release
+for your own lawful personal or internal organizational use. Internal business
+use is permitted; commercial redistribution is not. This permission does not
+authorize resale, rental, sublicensing, or charging others for access to the
+Materials, including as a hosted service.
+
+Public availability does not grant a subscription, activation key, paid feature,
+or other entitlement that the copyright holder supplies separately. Do not
+bypass licensing, activation, access, or technical protection mechanisms.
+
+3. Non-commercial redistribution of unchanged copies
+
+You may copy and redistribute the original, complete public release packages
+only if ALL of the following conditions are met:
+
+a. Redistribution is non-commercial: it is not primarily intended for or
+   directed toward commercial advantage or monetary compensation. You must not
+   sell, rent, monetize access to, or charge a distribution fee for the Materials;
+   place them behind a paid, advertising, referral, or affiliate download gate;
+   or include them in a paid product, service, or commercial bundle.
+b. Each original package is distributed byte-for-byte unchanged and complete.
+   Do not modify, patch, repackage, rebuild, translate, rebrand, remove components
+   from, or otherwise create or distribute adaptations of the Materials.
+c. Preserve all copyright notices, credits, license texts, third-party notices,
+   and other legal notices supplied with the Materials.
+d. Provide a copy of this license with every redistributed package, alongside
+   the package if it is not already included. Provide any expressly applicable
+   product-specific license as well. Do not alter the original package to add it.
+e. Clearly credit "Frost Lagoa (FrostLagoa)" and provide both the official hub URL,
+   https://github.com/FrostLagoa/hub, and the URL of the original GitHub release
+   from which the redistributed package was obtained. Display this attribution
+   with the download listing or accompanying distribution documentation.
+f. Do not misrepresent authorship, claim that a mirror is the official source,
+   or imply endorsement, sponsorship, affiliation, or support by the author.
+g. Do not impose additional terms or technical restrictions that prevent
+   recipients from exercising the permissions this license grants.
+
+You may also redistribute unchanged copies of the repository's documentation
+under the same non-commercial, attribution, and notice-preservation conditions.
+Links to official release pages are welcome.
+
+4. Reserved rights and legal exceptions
+
+All permissions not expressly granted are reserved. Commercial redistribution,
+modification, adaptations, and any other use outside this license require prior
+written permission from the copyright holder. No right to use names, logos,
+or trademarks is granted except as necessary for truthful attribution and
+identification of unchanged Materials.
+
+You may not reverse engineer, decompile, or disassemble the Materials except
+to the extent applicable law permits such activity despite this restriction.
+Nothing in this license limits rights that cannot lawfully be restricted,
+including applicable copyright exceptions or mandatory consumer rights.
+Nothing here overrides rights granted under GitHub's applicable terms of
+service for hosting, viewing, and forking public repository content on GitHub.
+Such rights do not make proprietary software open source.
+
+5. Product-specific terms and third-party components
+
+Different terms expressly designated by the copyright holder for a particular
+product, edition, version, or file govern that item to the extent of any conflict
+with this license. This license governs the remaining Materials. A product name
+or edition label alone does not establish different license terms.
+
+Third-party components are governed by their own applicable licenses. This
+license neither replaces nor restricts rights independently granted by those
+licenses. Required third-party notices and license texts must be preserved.
+
+6. No warranty; limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE MATERIALS ARE PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT. THE COPYRIGHT HOLDER DOES NOT GUARANTEE THAT THE
+MATERIALS WILL BE ERROR-FREE, SECURE, COMPATIBLE, OR CONTINUOUSLY AVAILABLE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL
+NOT BE LIABLE FOR ANY CLAIM, LOSS, OR DAMAGES ARISING FROM THE MATERIALS OR
+THEIR USE, INCLUDING LOSS OF DATA, PROFITS, OR BUSINESS, WHETHER IN CONTRACT,
+TORT, OR OTHERWISE. MANDATORY RIGHTS AND LIABILITIES REMAIN UNAFFECTED.
+
+7. Termination and versions
+
+Permissions under this license terminate automatically if you breach its
+conditions. Upon termination, stop using and redistributing the Materials and
+delete copies under your control, except copies you are legally required to
+retain or entitled to retain under independent rights. Reinstatement requires
+written permission from the copyright holder.
+
+The copyright holder may offer future versions under different terms. Such
+changes do not retroactively alter this license for copies already lawfully
+received under it. If a provision is unenforceable, the remaining provisions
+continue to apply to the extent permitted by law.

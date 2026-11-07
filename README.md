@@ -1,8 +1,8 @@
-# FrostLagoa Hub
+# Kallidos Hub
 
 **Apps, tools, plugins, and utilities by Frost Lagoa — available as ready-to-use downloads.**
 
-[Browse downloads](https://github.com/FrostLagoa/hub/releases) · [License](LICENSE) · [GitHub profile](https://github.com/FrostLagoa)
+[Browse downloads](https://github.com/FrostLagoa/kallidos_hub/releases) · [License](LICENSE) · [GitHub profile](https://github.com/FrostLagoa)
 
 ## About
 
@@ -14,7 +14,7 @@ Downloads are published through **GitHub Releases**. This repository contains th
 
 ## Download a tool
 
-1. Open [Releases](https://github.com/FrostLagoa/hub/releases).
+1. Open [Releases](https://github.com/FrostLagoa/kallidos_hub/releases).
 2. Choose the product and version you want. Each release title identifies its product; check its supported operating systems and requirements.
 3. Expand **Assets** and download the installer, portable archive, or plugin package for your platform.
 4. Follow the installation instructions in that release's notes or included documentation.
@@ -43,7 +43,7 @@ When redistributing a download:
 
 Example credit:
 
-> Created by Frost Lagoa (FrostLagoa). Official hub: https://github.com/FrostLagoa/hub. Original release: [insert the original release URL]. Distributed unchanged under the FrostLagoa Public Release License 1.0; see the accompanying LICENSE file.
+> Created by Frost Lagoa (FrostLagoa). Official hub: https://github.com/FrostLagoa/kallidos_hub. Original release: [insert the original release URL]. Distributed unchanged under the FrostLagoa Public Release License 1.0; see the accompanying LICENSE file.
 
 The [full license](LICENSE) governs these permissions. Product-specific terms and third-party licenses apply where expressly identified. A download does not grant paid features, subscriptions, activation keys, or commercial redistribution rights.
 

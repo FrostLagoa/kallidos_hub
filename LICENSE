@@ -8,7 +8,7 @@ All rights reserved except as expressly granted below.
 This license applies to the copyright holder's documentation in this repository
 and to software installers, binaries, plugins, archives, assets, and accompanying
 materials intentionally made available as public release downloads through
-https://github.com/FrostLagoa/hub (the "Materials"), unless the copyright holder
+https://github.com/FrostLagoa/kallidos_hub (the "Materials"), unless the copyright holder
 expressly identifies different license terms for particular Materials.
 
 The Materials are licensed, not sold. Ownership remains with the copyright
@@ -48,7 +48,7 @@ d. Provide a copy of this license with every redistributed package, alongside
    the package if it is not already included. Provide any expressly applicable
    product-specific license as well. Do not alter the original package to add it.
 e. Clearly credit "Frost Lagoa (FrostLagoa)" and provide both the official hub URL,
-   https://github.com/FrostLagoa/hub, and the URL of the original GitHub release
+   https://github.com/FrostLagoa/kallidos_hub, and the URL of the original GitHub release
    from which the redistributed package was obtained. Display this attribution
    with the download listing or accompanying distribution documentation.
 f. Do not misrepresent authorship, claim that a mirror is the official source,

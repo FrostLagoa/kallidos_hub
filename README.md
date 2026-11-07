@@ -21,7 +21,14 @@ Downloads are published through **GitHub Releases**. This repository contains th
 
 GitHub's automatically generated **Source code (zip)** and **Source code (tar.gz)** archives contain this repository's documentation, not the products' source code or installers.
 
-**No software releases have been published yet.** Available products will be listed here as their first public releases become available.
+## Available products
+
+| Product | Category | Platform | Current preview |
+| --- | --- | --- | --- |
+| **Tritanomaly Assist** | Accessibility · Color filter | Windows 10/11 x64 | [0.4.0 — portable EXE](https://github.com/FrostLagoa/kallidos_hub/releases/tag/tritanomaly-assist/v0.4.0) |
+
+Tritanomaly Assist provides adjustable desktop colors, local profiles, a system tray icon, global shortcuts, and light/dark/system interface themes. It is an experimental preview; see its release notes for requirements and limitations.
+
 
 ## Versions and updates
 
